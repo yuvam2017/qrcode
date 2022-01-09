@@ -1,0 +1,5 @@
+pypng
+pyqrcode
+Pillow
+os-sys
+
